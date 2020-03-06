@@ -8,7 +8,7 @@ package utils
 
 import (
 	"math"
-	"github.com/pzsz/voronoi"
+	"github.com/radean0909/voronoi"
 )
 
 func Distance(a,b voronoi.Vertex) float64 {
