@@ -8,7 +8,7 @@
 package utils
 
 import (
-	"github.com/pzsz/voronoi"
+	"github.com/radean0909/voronoi"
 )
 
 // Calculate area of a cell
