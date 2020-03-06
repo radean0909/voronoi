@@ -7,7 +7,7 @@
 package utils
 
 import (
-	"github.com/pzsz/voronoi"
+	"github.com/radean0909/voronoi"
 	"math/rand"
 )
 
