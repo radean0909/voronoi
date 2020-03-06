@@ -7,7 +7,7 @@
 package voronoi_test
 
 import (
-	. "github.com/pzsz/voronoi"
+	. "github.com/radean/voronoi"
 	"math/rand"
 	"testing"
 )
